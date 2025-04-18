@@ -1,0 +1,4 @@
+Hello World!
+
+Welcome to the foundation basics of The Odin Project.
+We're currently learning Git Basics.
